@@ -23,6 +23,7 @@
 		E3ACB6D528B101D400300EA9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E3ACB6DC28B1023300300EA9 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		E3ACB6DE28B1077200300EA9 /* CustomViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomViews.swift; sourceTree = "<group>"; };
+		E3ACB6E028B118BA00300EA9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +40,7 @@
 		E3ACB6C228B101D300300EA9 = {
 			isa = PBXGroup;
 			children = (
+				E3ACB6E028B118BA00300EA9 /* README.md */,
 				E3ACB6CD28B101D300300EA9 /* SmartFace_Challenge_1 */,
 				E3ACB6CC28B101D300300EA9 /* Products */,
 			);
